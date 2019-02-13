@@ -99,9 +99,6 @@ lang jin pin in
 ![image-b3]
 
 
-
-![image-b4]
-
 输入法支持用汉语拼音反查南京拼音。比如不知道“南”字怎么读，可以按 \` 键（在 Tab 键的上方），然后键入汉语拼音`nan`，就可以查到“南”字的南京话拼音。
 
 ![image-b5]
@@ -112,6 +109,6 @@ lang jin pin in
 [image-a4]: https://ww2.sinaimg.cn/large/006mIeATgw1f3w2sm4khpj30dw0b4dge.jpg
 
 [image-b1]: https://ww4.sinaimg.cn/large/006mIeATgw1f3w2sn2efdj30dw0b40t0.jpg
-[image-b2]: https://uliloewi.github.io/LangJinPinIn/img/ibusb2.jpg
-[image-b3]: https://uliloewi.github.io/LangJinPinIn/img/ibusb3.jpg
-[image-b5]: https://uliloewi.github.io/LangJinPinIn/img/ibusb5.jpg
+[image-b2]: https://uliloewi.github.io/LangJinPinIn/img/ibusB2.jpg
+[image-b3]: https://uliloewi.github.io/LangJinPinIn/img/ibusB3.jpg
+[image-b5]: https://uliloewi.github.io/LangJinPinIn/img/ibusB5.jpg
