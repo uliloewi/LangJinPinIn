@@ -44,7 +44,9 @@
 
 南京话拼音输入法请从下列链接下载
 
-> 百度网盘：https://pan.baidu.com/s/TODO
+- GITHUB： https://github.com/uliloewi/lang2jin1/archive/master.zip
+或
+- 百度网盘：https://pan.baidu.com/待定
 
 里面有两个文件，不需要作修改。感兴趣的读者可以用任何一款文本编辑器查看其中的内容。
 
@@ -88,9 +90,7 @@ lang jin pin in
 
 ![image-b3]
 
-![image-b4]
-
-输入法支持用汉语拼音反查南京话拼音。比如不知道“朝”字怎么读，可以按 \` 键（在 Tab 键的上方），然后键入汉语拼音`chao`，就可以查到“朝”字的南京话拼音。
+输入法支持用汉语拼音反查南京话拼音。比如不知道“南”字怎么读，可以按 \` 键（在 Tab 键的上方），然后键入汉语拼音`nan`，就可以查到“南”字的南京话拼音。
 
 ![image-b5]
 
@@ -102,7 +102,6 @@ lang jin pin in
 
 [image-b1]: https://ww1.sinaimg.cn/large/006mIeATjw1f2qfq3bolcj30m80m8adb.jpg
 [image-b2]: https://ww3.sinaimg.cn/large/006mIeATjw1f2qfq3sp9bj30go0dw0tu.jpg
-[image-b3]: https://ww1.sinaimg.cn/large/006mIeATjw1f2qfq4jx94j30nc0goabo.jpg
-[image-b4]: https://ww1.sinaimg.cn/large/006mIeATjw1f2qfq5457yj30kk0godhf.jpg
-[image-b5]: https://ww1.sinaimg.cn/large/006mIeATjw1f2qfq5vbatj30dw0i2dh8.jpg
+[image-b3]: https://uliloewi.github.io/LangJinPinIn/img/squirrelB3.jpg
+[image-b5]: https://uliloewi.github.io/LangJinPinIn/img/squirrelB5.jpg
 
