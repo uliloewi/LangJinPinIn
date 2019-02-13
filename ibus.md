@@ -48,7 +48,9 @@ Rime 输入法还有很多功能，需要时可以查看官网的文档。
 
 南京话拼音输入法请从下列链接
 
-> 百度网盘：https://pan.baidu.com/s/TODO
+- GITHUB： https://github.com/uliloewi/lang2jin1/archive/master.zip
+或
+- 百度网盘：https://pan.baidu.com/待定
 
 有两个文件，不需要作修改。感兴趣的读者可以用任何一款文本编辑器查看其中的内容。
 
@@ -100,7 +102,7 @@ lang jin pin in
 
 ![image-b4]
 
-输入法支持用汉语拼音反查南京拼音。比如不知道“朝”字怎么读，可以按 \` 键（在 Tab 键的上方），然后键入汉语拼音`chao`，就可以查到“朝”字的南京拼音。
+输入法支持用汉语拼音反查南京拼音。比如不知道“南”字怎么读，可以按 \` 键（在 Tab 键的上方），然后键入汉语拼音`nan`，就可以查到“南”字的南京话拼音。
 
 ![image-b5]
 
@@ -110,7 +112,6 @@ lang jin pin in
 [image-a4]: https://ww2.sinaimg.cn/large/006mIeATgw1f3w2sm4khpj30dw0b4dge.jpg
 
 [image-b1]: https://ww4.sinaimg.cn/large/006mIeATgw1f3w2sn2efdj30dw0b40t0.jpg
-[image-b2]: https://ww1.sinaimg.cn/large/006mIeATgw1f3w2snhiscj30dw0b40tb.jpg
-[image-b3]: https://ww3.sinaimg.cn/large/006mIeATgw1f3w2snz5v4j30dw0b4js4.jpg
-[image-b4]: https://ww1.sinaimg.cn/large/006mIeATgw1f3w2sokg8kj30dw0b4mxv.jpg
-[image-b5]: https://ww3.sinaimg.cn/large/006mIeATgw1f3w2sp37a4j30dw0b4q3o.jpg
+[image-b2]: https://uliloewi.github.io/LangJinPinIn/img/ibusb2.jpg
+[image-b3]: https://uliloewi.github.io/LangJinPinIn/img/ibusb3.jpg
+[image-b5]: https://uliloewi.github.io/LangJinPinIn/img/ibusb5.jpg
