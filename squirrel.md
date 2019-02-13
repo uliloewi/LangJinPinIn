@@ -101,7 +101,7 @@ lang jin pin in
 [image-a5]: https://ww1.sinaimg.cn/large/006mIeATjw1f2qfq2v1p0j30fa0fajsm.jpg
 
 [image-b1]: https://ww1.sinaimg.cn/large/006mIeATjw1f2qfq3bolcj30m80m8adb.jpg
-[image-b2]: https://ww3.sinaimg.cn/large/006mIeATjw1f2qfq3sp9bj30go0dw0tu.jpg
+[image-b2]: https://uliloewi.github.io/LangJinPinIn/img/squirrelB2.jpg
 [image-b3]: https://uliloewi.github.io/LangJinPinIn/img/squirrelB3.jpg
 [image-b5]: https://uliloewi.github.io/LangJinPinIn/img/squirrelB5.jpg
 
