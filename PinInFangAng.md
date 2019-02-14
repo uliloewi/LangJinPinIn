@@ -1,8 +1,8 @@
 ### 菜單
 <tr>
-<td><a href="../CiwnIwn">前言</a><label>       </label></td>
-<td><a href="../PinInFangAng">南京官話拼音方案</a><label>       </label></td>
-<td><a href="../LinIwnChaI">與漢語拼音的差異</a></td>
+<td style="width:50px;"><a href="https://uliloewi.github.io/LangJinPinIn/CiwnIwn">前言</a></td>
+<td style="width:50px;"><a href="https://uliloewi.github.io/LangJinPinIn/PinInFangAng">南京官話拼音方案</a></td>
+<td style="width:50px;"><a href="https://uliloewi.github.io/LangJinPinIn/LinIwnChaI">與漢語拼音的差異</a></td>
 </tr>
 
 # 南京官話拼音方案
