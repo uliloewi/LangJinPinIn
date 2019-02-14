@@ -1,5 +1,7 @@
 # 南京官話拼音方案
 
+- 方括號前是拼音字母，方括號後是國際音標。
+
 ## 声母
 
 <table style="width:1px; white-space:nowrap; text-align:center;">
@@ -228,6 +230,7 @@
 
 <table style="width:1px; white-space:nowrap; text-align:center;">
   <tr>
+	<td>調名</td>
     <td><span style="font-size:2em;">陰平</span></td>
 	<td><span style="font-size:2em;">陽平</span></td>
     <td><span style="font-size:2em;">上</span></td>
@@ -235,6 +238,15 @@
     <td><span style="font-size:2em;">入</span></td>
   </tr>
   <tr>
+	<td>調值</td>
+    <td><span style="font-size:2em;">31[˧˩]</span></td>
+	<td><span style="font-size:2em;">13[˩˧]</span></td>
+    <td><span style="font-size:2em;">212[˨˩˨]</span></td>
+    <td><span style="font-size:2em;">44[˦˦]</span></td>
+    <td><span style="font-size:2em;">5[˥]</span></td>
+  </tr>
+  <tr>
+	<td>例字組一</td>
     <td><span style="font-size:2em;">i¹</span> 衣</td>
     <td><span style="font-size:2em;">i²</span> 移</td>
     <td><span style="font-size:2em;">i³</span> 已</td>
@@ -242,10 +254,19 @@
 	<td><span style="font-size:2em;">i⁵</span> 一</td>
   </tr>  
   <tr>
+    <td>例字組二</td>
     <td><span style="font-size:2em;">shr¹</span> 詩</td>
     <td><span style="font-size:2em;">shr²</span> 時</td>
     <td><span style="font-size:2em;">shr³</span> 使</td>
     <td><span style="font-size:2em;">shr⁴</span> 是</td>
 	<td><span style="font-size:2em;">shr⁵</span> 十</td>
+  </tr>
+  <tr>
+    <td>例字組三</td>
+    <td><span style="font-size:2em;">cä¹</span> 猜</td>
+    <td><span style="font-size:2em;">cä²</span> 才</td>
+    <td><span style="font-size:2em;">cä³</span> 踩</td>
+    <td><span style="font-size:2em;">cä⁴</span> 菜</td>
+	<td><span style="font-size:2em;">cä⁵</span> 測</td>
   </tr>
 </table>
