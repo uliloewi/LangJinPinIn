@@ -4,34 +4,34 @@
 
 <table style="width:1px; white-space:nowrap; text-align:center;">
   <tr>
-    <td><span style="font-size:2em;">b</span> [p] 把</td>
-    <td><span style="font-size:2em;">p</span> [pʰ] 怕</td>
-    <td><span style="font-size:2em;">m</span> [m] 麻</td>
-    <td><span style="font-size:2em;">f</span> [f] 法</td>
+    <td><span style="font-size:2em;">b [p]</span> 把</td>
+    <td><span style="font-size:2em;">p [pʰ]</span> 怕</td>
+    <td><span style="font-size:2em;">m [m]</span> 麻</td>
+    <td><span style="font-size:2em;">f [f]</span> 法</td>
   </tr>
   <tr>
-    <td><span style="font-size:2em;">d</span> [t] 大</td>
-    <td><span style="font-size:2em;">t</span> [tʰ] 他</td>
-    <td><span style="font-size:2em;">l</span> [l] 拉</td>
+    <td><span style="font-size:2em;">d [t]</span> 大</td>
+    <td><span style="font-size:2em;">t [tʰ]</span> 他</td>
+    <td><span style="font-size:2em;">l [l]</span> 拉</td>
     <td></td>
   </tr>
   <tr>
-    <td><span style="font-size:2em;">g</span> [k] 嘎</td>
-    <td><span style="font-size:2em;">k</span> [kʰ] 卡</td>
-    <td><span style="font-size:2em;">h</span> [h] 哈</td>
+    <td><span style="font-size:2em;">g [k]</span> 嘎</td>
+    <td><span style="font-size:2em;">k [kʰ]</span> 卡</td>
+    <td><span style="font-size:2em;">h [h]</span> 哈</td>
     <td></td>
   </tr>
   <tr>
-    <td><span style="font-size:2em;">z</span> [ts] 砸</td>
-    <td><span style="font-size:2em;">c</span> [tsʰ] 擦</td>
-    <td><span style="font-size:2em;">s</span> [s] 撒</td>
+    <td><span style="font-size:2em;">z [ts]</span> 砸</td>
+    <td><span style="font-size:2em;">c [tsʰ]</span> 擦</td>
+    <td><span style="font-size:2em;">s [s]</span> 撒</td>
     <td></td>
   </tr>
   <tr>
-    <td><span style="font-size:2em;">z</span> [ʈʂ] 渣</td>
-    <td><span style="font-size:2em;">c</span> [ʈʂʰ] 差</td>
-    <td><span style="font-size:2em;">s</span> [ʂ] 沙</td>
-    <td><span style="font-size:2em;">r</span> [ʐ] 日</td>
+    <td><span style="font-size:2em;">z [ʈʂ]</span> 渣</td>
+    <td><span style="font-size:2em;">c [ʈʂʰ]</span> 差</td>
+    <td><span style="font-size:2em;">s [ʂ]</span> 沙</td>
+    <td><span style="font-size:2em;">r [ʐ]</span> 日</td>
   </tr>
 </table>
 
@@ -72,10 +72,10 @@
   <tr>
     <td><span style="font-size:2em;">a [a]</span>  啊</td>
     <td>
-      <span style="font-size:2em;">ia</span> [ia] 丫
+      <span style="font-size:2em;">ia [ia]</span> 丫
 	</td>
     <td>
-      <span style="font-size:2em;">ua</span> [ua] 哇  
+      <span style="font-size:2em;">ua [ua]</span> 哇  
     </td>
 	<td></td>
   </tr>
@@ -84,13 +84,13 @@
 		<span style="font-size:2em;">ä [ɛ]</span>  哎
 	</td>
     <td>
-      <span style="font-size:2em;">iä</span> [iɛ] 也
+      <span style="font-size:2em;">iä [iɛ]</span> 也
 	</td>
     <td>
-      <span style="font-size:2em;">uä</span> [uɛ] 外	  
+      <span style="font-size:2em;">uä [uɛ]</span> 外	  
     </td>
 	<td>      
-	  <span style="font-size:2em;">üä</span> [uɛ] 月	  
+	  <span style="font-size:2em;">üä [uɛ]</span> 月	  
     </td>
   </tr>
   
@@ -104,11 +104,11 @@
   </tr>
   <tr>
     <td>
-		<span style="font-size:2em;">ei</span> [ei] 眉的韻母
+		<span style="font-size:2em;">ei [ei]</span> 眉的韻母
 	</td>
     <td></td>
     <td>
-      <span style="font-size:2em;">uei</span> [uei] 威	  
+      <span style="font-size:2em;">uei [uei]</span> 威	  
     </td>
 	<td></td>
   </tr>
@@ -117,7 +117,7 @@
 		<span style="font-size:2em;">ao [ɔ]</span>  奧	
 	</td>
     <td>
-		<span style="font-size:2em;">iao</span> [iɔ] 腰	  	
+		<span style="font-size:2em;">iao [iɔ]</span> 腰	  	
 	</td>
     <td></td>
 	<td></td>
@@ -125,10 +125,10 @@
   
   <tr>
     <td>		
-		<span style="font-size:2em;">ou</span> [əɯ] 歐
+		<span style="font-size:2em;">ou [əɯ]</span> 歐
 	</td>
     <td>
-		<span style="font-size:2em;">iou</span> [iəɯ] 由	  	
+		<span style="font-size:2em;">iou [iəɯ]</span> 由	  	
 	</td>
     <td></td>
 	<td></td>
@@ -138,48 +138,48 @@
 		<span style="font-size:2em;">o [o]</span>  我
 	</td>
     <td>
-		<span style="font-size:2em;">io</span> [io] 岳	  	
+		<span style="font-size:2em;">io [io]</span> 岳	  	
 	</td>
     <td></td>
 	<td></td>
   </tr>
   <tr>
-    <td><span style="font-size:2em;">ang</span> [ã] 安	  	</td>
+    <td><span style="font-size:2em;">ang [ã]</span> 安	  	</td>
     <td>
-		<span style="font-size:2em;">iang</span> [iã] 央	  	
+		<span style="font-size:2em;">iang [iã]</span> 央	  	
 	</td>
     <td>
-		<span style="font-size:2em;">uang</span> [uã] 完	  	
+		<span style="font-size:2em;">uang [uã]</span> 完	  	
 	</td>
 	<td></td>
   </tr>
   <tr>
-    <td><span style="font-size:2em;">än</span> [ã] 限的韻母	  	</td>
+    <td><span style="font-size:2em;">än [ɛ̃]</span> 限的韻母	  	</td>
     <td>
-		<span style="font-size:2em;">iän</span> [iã] 淹	  	
+		<span style="font-size:2em;">iän [iɛ̃]</span> 淹	  	
 	</td>
     <td></td>
 	<td>
-	<span style="font-size:2em;">üän</span> [yã] 冤	  	
+	<span style="font-size:2em;">üän [yɛ̃]</span> 冤	  	
 	</td>
   </tr>
   <tr>
     <td>
-		<span style="font-size:2em;">in</span> [in] 音	  	
+		<span style="font-size:2em;">in [in]</span> 音	  	
 	</td>
     <td>
 	</td>
     <td></td>
 	<td>
-		<span style="font-size:2em;">üin</span> [yin] 云
+		<span style="font-size:2em;">üin [yin]</span> 云
 	</td>
   </tr>
   <tr>
     <td>
-		<span style="font-size:2em;">ong</span> [oŋ] 嗡	  	
+		<span style="font-size:2em;">ong [oŋ]</span> 嗡	  	
 	</td>
     <td>
-		<span style="font-size:2em;">iong</span> [ioŋ] 容
+		<span style="font-size:2em;">iong [ioŋ]</span> 容
 	</td>
     <td></td>
 	<td>		
@@ -187,11 +187,11 @@
   </tr>
   <tr>
     <td>
-		<span style="font-size:2em;">en</span> [ə̃ ] 恩	  	
+		<span style="font-size:2em;">en [ə̃ ]</span> 恩	  	
 	</td>
     <td></td>
     <td>
-		<span style="font-size:2em;">uen</span> [uə̃ ] 文
+		<span style="font-size:2em;">uen [uə̃ ]</span> 文
 	</td>
 	<td>		
 	</td>
