@@ -7,8 +7,7 @@
     <td><span style="font-size:2em;">b</span> [p] 把</td>
     <td><span style="font-size:2em;">p</span> [pʰ] 怕</td>
     <td><span style="font-size:2em;">m</span> [m] 麻</td>
-    <td><span style="font-size:2em;">bh</span> [f] 法</td>
-    <td></td>
+    <td><span style="font-size:2em;">f</span> [f] 法</td>
   </tr>
   <tr>
     <td><span style="font-size:2em;">d</span> [t] 大</td>
@@ -20,6 +19,7 @@
     <td><span style="font-size:2em;">g</span> [k] 嘎</td>
     <td><span style="font-size:2em;">k</span> [kʰ] 卡</td>
     <td><span style="font-size:2em;">h</span> [h] 哈</td>
+    <td></td>
   </tr>
   <tr>
     <td><span style="font-size:2em;">z</span> [ts] 砸</td>
@@ -32,7 +32,6 @@
     <td><span style="font-size:2em;">c</span> [ʈʂʰ] 差</td>
     <td><span style="font-size:2em;">s</span> [ʂ] 沙</td>
     <td><span style="font-size:2em;">r</span> [ʐ] 日</td>
-    <td></td>
   </tr>
 </table>
 
