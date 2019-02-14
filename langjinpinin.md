@@ -84,7 +84,7 @@
 		<span style="font-size:2em;">ä [ɛ]</span>  哎
 	</td>
     <td>
-      <span style="font-size:2em;">iä</span> [iɛ] 也<span style="font-size:2em;">a [a]</span>  啊
+      <span style="font-size:2em;">iä</span> [iɛ] 也
 	</td>
     <td>
       <span style="font-size:2em;">uä</span> [uɛ] 外	  
