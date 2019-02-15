@@ -58,8 +58,9 @@
 ## 添加南京话拼音的方案和码表
 
 南京话拼音输入法在此下载：
-> GITHUB： https://github.com/uliloewi/lang2jin1/archive/master.zip
-> 百度网盘：https://pan.baidu.com/待定
+- GITHUB： https://github.com/uliloewi/lang2jin1/archive/master.zip
+或
+- 百度网盘：https://pan.baidu.com/待定
 
 
 里面有两个文件，感兴趣的读者可以用任何一款文本编辑器查看其中的内容。
