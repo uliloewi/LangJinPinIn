@@ -57,9 +57,9 @@
 
 ## 添加南京话拼音的方案和码表
 
-南京话拼音输入法支持 6 种口音，请任选一处链接，下载适合自己的口音版本。
+南京话拼音输入法在此下载：
 
-> 百度网盘：https://pan.baidu.com/s/1kUJt5JL
+> 百度网盘：https://pan.baidu.com/s/TODU
 
 
 里面有两个文件，感兴趣的读者可以用任何一款文本编辑器查看其中的内容。
@@ -102,14 +102,14 @@ lang jin pin in
 ![image-c8]
 
 
-输入法支持用汉语拼音反查南京话拼音。比如不知道“朝”字怎么读，可以按 \` 键（在 Tab 键的上方），然后键入汉语拼音`chao`，就可以查到“朝”字的南京话拼音。
+输入法支持用汉语拼音反查南京话拼音。比如不知道“朝”字怎么读，可以按 \` 键（在 Tab 键的上方），然后键入汉语拼音`nan`，就可以查到“南”字的南京话拼音。
 
 ![image-c10]
 
-[image-a1]: https://ww1.sinaimg.cn/large/006mIeATjw1f2ai9l6mqyj30sg0lcwhd.jpg
+[image-a1]: https://uliloewi.github.io/LangJinPinIn/img/weaselA1.jpg
 [image-a2]: https://ww4.sinaimg.cn/large/006mIeATjw1f2ai9lmksdj30sg0lcn01.jpg
-[image-a3]: https://ww4.sinaimg.cn/large/006mIeATjw1f2ai9mcrngj30sg0lcq6t.jpg
-[image-a4]: https://ww4.sinaimg.cn/large/006mIeATjw1f2ai9msya4j30sg0lcwi7.jpg
+[image-a3]: https://uliloewi.github.io/LangJinPinIn/img/weaselA3.jpg
+[image-a4]: https://uliloewi.github.io/LangJinPinIn/img/weasel4.jpg
 [image-a5]: https://ww4.sinaimg.cn/large/006mIeATjw1f2ai9nloqkj30sg0lcwic.jpg
 [image-a6]: https://ww4.sinaimg.cn/large/006mIeATjw1f2ai9o3rzqj30sg0lcn13.jpg
 [image-a7]: https://ww1.sinaimg.cn/large/006mIeATjw1f2ai9ondg7j30sg0lcdjy.jpg
@@ -120,15 +120,15 @@ lang jin pin in
 [image-b3]: https://ww4.sinaimg.cn/large/006mIeATjw1f2aienthpej30sg0lcgo5.jpg
 [image-b4]: https://ww3.sinaimg.cn/large/006mIeATjw1f2aieo9qwoj30sg0lc0vc.jpg
 
-[image-c1]: https://ww4.sinaimg.cn/large/006mIeATjw1f2aij8s6btj30sg0lc775.jpg
+[image-c1]: https://uliloewi.github.io/LangJinPinIn/img/weaselC1.jpg
 [image-c2]: https://ww4.sinaimg.cn/large/006mIeATjw1f2aij98ozyj30sg0lc77d.jpg
-[image-c3]: https://ww2.sinaimg.cn/large/006mIeATjw1f2aij9qe5yj30sg0lcwjd.jpg
+[image-c3]: https://uliloewi.github.io/LangJinPinIn/img/weaselC3.jpg
 [image-c4]: https://ww4.sinaimg.cn/large/006mIeATjw1f2aija7gdjj30sg0lctca.jpg
 [image-c5]: https://ww4.sinaimg.cn/large/006mIeATjw1f2aijasbf5j30sg0lcn17.jpg
-[image-c6]: https://ww3.sinaimg.cn/large/006mIeATjw1f2aijbdxgij30sg0lcq5w.jpg
-[image-c7]: https://ww3.sinaimg.cn/large/006mIeATjw1f2aijbv2u6j30sg0lc0vj.jpg
-[image-c8]: https://ww2.sinaimg.cn/large/006mIeATjw1f2aijdze38j30sg0lcmzw.jpg
+[image-c6]: https://uliloewi.github.io/LangJinPinIn/img/weaselC6.jpg
+[image-c7]: https://uliloewi.github.io/LangJinPinIn/img/weaselC7.jpg
+[image-c8]: https://uliloewi.github.io/LangJinPinIn/img/weaselC8.jpg
 [image-c9]: https://ww3.sinaimg.cn/large/006mIeATjw1f2aijem663j30sg0lcdih.jpg
-[image-c10]: https://ww1.sinaimg.cn/large/006mIeATjw1f2aijf2ylxj30sg0lc415.jpg
+[image-c10]: https://uliloewi.github.io/LangJinPinIn/img/weaselC10.jpg
 [image-c11]: https://ww4.sinaimg.cn/large/006mIeATjw1f2qc0urd6jj30sg0lcgp8.jpg
 
