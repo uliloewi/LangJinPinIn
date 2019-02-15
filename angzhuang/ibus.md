@@ -1,3 +1,4 @@
+<!---
 <tr>
 <td><a style="margin-right: 50px;" href="https://uliloewi.github.io/LangJinPinIn/CiwnIwn">前言</a></td>
 <td ><a style="margin-right: 50px;" href="https://uliloewi.github.io/LangJinPinIn/PinInFangAng">南京官話拼音方案</a></td>
@@ -113,3 +114,4 @@ lang jin pin in
 [image-b3]: https://ww3.sinaimg.cn/large/006mIeATgw1f3w2snz5v4j30dw0b4js4.jpg
 [image-b4]: https://ww1.sinaimg.cn/large/006mIeATgw1f3w2sokg8kj30dw0b4mxv.jpg
 [image-b5]: https://ww3.sinaimg.cn/large/006mIeATgw1f3w2sp37a4j30dw0b4q3o.jpg
+--->
