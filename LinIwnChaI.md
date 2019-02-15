@@ -8,7 +8,7 @@
 
 ## 保留入聲
 這是南京官話在清末之前一直穩坐正統官話寶座的原因
-示例：
+- 示例：
 
 <table style="width:1px; white-space:nowrap; text-align:center;">
   <tr>

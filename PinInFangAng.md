@@ -1,4 +1,3 @@
-### 菜單
 <tr>
 <td><a style="margin-right: 50px;" href="https://uliloewi.github.io/LangJinPinIn/CiwnIwn">前言</a></td>
 <td ><a style="margin-right: 50px;" href="https://uliloewi.github.io/LangJinPinIn/PinInFangAng">南京官話拼音方案</a></td>
@@ -13,7 +12,7 @@
 
 - 方括號前是拼音字母，方括號後是國際音標。
 
-## 声母
+## 聲母
 
 <table style="width:1px; white-space:nowrap; text-align:center;">
   <tr>
@@ -48,7 +47,7 @@
   </tr>
 </table>
 
-## 韵母
+## 韻母
 
 ### 单元音
 
