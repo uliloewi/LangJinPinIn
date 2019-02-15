@@ -7,8 +7,8 @@
 
 # 南京拼音输入法安装方法
 
-- 安装方法〔<a style="margin-right: 50px;" href="https://uliloewi.github.io/LangJinPinIn/angzhuang/weasel">Windows</a>〕
-- 安装方法〔<a style="margin-right: 50px;" href="https://uliloewi.github.io/LangJinPinIn/angzhuang/squirrel">macOS</a>〕
-- 安装方法〔<a style="margin-right: 50px;" href="https://uliloewi.github.io/LangJinPinIn/angzhuang/ibus">Linux</a>〕
-- 安装方法〔<a style="margin-right: 50px;" href="https://uliloewi.github.io/LangJinPinIn/angzhuang/trime">Android</a>〕
-- 安装方法〔<a style="margin-right: 50px;" href="https://uliloewi.github.io/LangJinPinIn/angzhuang/irime">iOS</a>〕
+- 安装方法〔<a  href="https://uliloewi.github.io/LangJinPinIn/weasel">Windows</a>〕
+- 安装方法〔<a  href="https://uliloewi.github.io/LangJinPinIn/angzhuang/squirrel">macOS</a>〕
+- 安装方法〔<a  href="https://uliloewi.github.io/LangJinPinIn/angzhuang/ibus">Linux</a>〕
+- 安装方法〔<a  href="https://uliloewi.github.io/LangJinPinIn/angzhuang/trime">Android</a>〕
+- 安装方法〔<a  href="https://uliloewi.github.io/LangJinPinIn/angzhuang/irime">iOS</a>〕
