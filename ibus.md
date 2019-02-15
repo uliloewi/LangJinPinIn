@@ -109,6 +109,6 @@ lang jin pin in
 [image-a4]: https://ww2.sinaimg.cn/large/006mIeATgw1f3w2sm4khpj30dw0b4dge.jpg
 
 [image-b1]: https://ww4.sinaimg.cn/large/006mIeATgw1f3w2sn2efdj30dw0b40t0.jpg
-[image-b2]: https://uliloewi.github.io/LangJinPinIn/img/ibusb2.jpg
-[image-b3]: https://uliloewi.github.io/LangJinPinIn/img/ibusb3.jpg
-[image-b5]: https://uliloewi.github.io/LangJinPinIn/img/ibusb5.jpg
+[image-b2]: https://uliloewi.github.io/LangJinPinIn/img/ibusB2.jpg
+[image-b3]: https://uliloewi.github.io/LangJinPinIn/img/ibusB3.jpg
+[image-b5]: https://uliloewi.github.io/LangJinPinIn/img/ibusB5.jpg
