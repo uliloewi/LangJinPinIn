@@ -178,21 +178,21 @@
   </tr>
   <tr>
     <td>
-		<span>in [in]</span> 音	  	
+		<span>in [ĩ]</span> 音	  	
 	</td>
     <td>
 	</td>
     <td></td>
 	<td>
-		<span>üin [yin]</span> 云
+		<span>üin [yĩ]</span> 云
 	</td>
   </tr>
   <tr>
     <td>
-		<span>ong [oŋ]</span> 嗡	  	
+		<span>ong [õ]</span> 嗡	  
 	</td>
     <td>
-		<span>iong [ioŋ]</span> 容
+		<span>iong [iõ]</span> 容
 	</td>
     <td></td>
 	<td>		
