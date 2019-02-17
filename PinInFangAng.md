@@ -47,9 +47,9 @@
     <td></td>
   </tr>
   <tr>
-    <td><span>z [ʈʂ]</span> 渣</td>
-    <td><span>c [ʈʂʰ]</span> 差</td>
-    <td><span>s [ʂ]</span> 沙</td>
+    <td><span>zh [ʈʂ]</span> 渣</td>
+    <td><span>ch [ʈʂʰ]</span> 差</td>
+    <td><span>sh [ʂ]</span> 沙</td>
     <td><span>r [ʐ]</span> 日</td>
   </tr>
 </table>
