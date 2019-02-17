@@ -35,6 +35,12 @@
     <td></td>
   </tr>
   <tr>
+    <td><span>z [tɕ]</span> 家</td>
+    <td><span>c [tɕʰ]</span> 掐</td>
+    <td><span>s [ɕ]</span> 夏</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><span>z [ts]</span> 砸</td>
     <td><span>c [tsʰ]</span> 擦</td>
     <td><span>s [s]</span> 撒</td>
