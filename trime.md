@@ -14,7 +14,9 @@
 
 从下列链接下载最新的安装包`trime-langjin.apk`。我们已经把“南京话拼音”的码表和“同文输入法”的安装程序打包在一起了，不必另外下载码表。
 
-> 百度网盘：https://pan.baidu.com/s/TODO
+- GITHUB： https://github.com/uliloewi/lang2jin1/archive/trime-langjin.apk
+或
+- 百度网盘：https://pan.baidu.com/待定
 
 安装完毕，应用列表上多了一个“同文输入法”。
 
@@ -56,7 +58,7 @@ lang jin pin in
 
 ![image-b2]
 
-输入法支持用汉语拼音反查南京话拼音。比如不知道“朝”字怎么读，可以长按 z 键（打出 \` 符号），然后键入汉语拼音`chao`，就可以查到“朝”字的南京话拼音。
+输入法支持用汉语拼音反查南京话拼音。比如不知道“南”字怎么读，可以长按 z 键（打出 \` 符号），然后键入汉语拼音`nan`，就可以查到“南”字的南京话拼音。
 
 ![image-b4]
 
@@ -68,11 +70,11 @@ lang jin pin in
 [image-a2]: https://ww2.sinaimg.cn/large/006mIeATjw1f2cxpjlx8aj30f00qoq48.jpg
 [image-a3]: https://ww4.sinaimg.cn/large/006mIeATjw1f2cxpk6ra9j30f00qo3z0.jpg
 [image-a4]: https://ww1.sinaimg.cn/large/006mIeATjw1f2cxplgmpij30f00qoaba.jpg
-[image-a5]: https://ww2.sinaimg.cn/large/006mIeATjw1f2cxpm77tqj30f00qomyp.jpg
-[image-a6]: https://ww1.sinaimg.cn/large/006mIeATjw1f2cxpmu8c9j30f00qodh9.jpg
+[image-a5]: https://uliloewi.github.io/LangJinPinIn/img/trimeA5.jpg
+[image-a6]: https://uliloewi.github.io/LangJinPinIn/img/trimeA6.jpg
 
-[image-b1]: https://ww2.sinaimg.cn/large/006mIeATjw1f2cxpnkfe1j30f00qomz5.jpg
-[image-b2]: https://ww3.sinaimg.cn/large/006mIeATjw1f2cxpo9lqlj30f00qotax.jpg
-[image-b3]: https://ww1.sinaimg.cn/large/006mIeATjw1f2cxppa1lpj30f00qoq4y.jpg
-[image-b4]: https://ww4.sinaimg.cn/large/006mIeATjw1f2q8szarz1j30f00qo76c.jpg
+[image-b1]: https://uliloewi.github.io/LangJinPinIn/img/trimeB1.jpg
+[image-b2]: https://uliloewi.github.io/LangJinPinIn/img/trimeB2.jpg
+[image-b3]: https://uliloewi.github.io/LangJinPinIn/img/trimeB3.jpg
+[image-b4]: https://uliloewi.github.io/LangJinPinIn/img/trimeB4.jpg
 
