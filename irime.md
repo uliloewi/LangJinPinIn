@@ -43,11 +43,12 @@
 这一步需要一台电脑，和手机连上同一个WiFi/路由器。
 
 请从下列链接，选择南京话拼音输入法（langjin）下载到电脑上。
+- GITHUB： https://github.com/uliloewi/lang2jin1/archive/master.zip
+或
+- 百度网盘：https://pan.baidu.com/待定
 
-> 百度网盘：https://pan.baidu.com/s/TODO
 
-
-里面有 4 个文件，包括了输入方案和编译好的二进制码表，这 4 个文件分别是：
+里面有多個文件，最主要的是这 4 个文件：
 
 ```
 langjin.prism.bin
@@ -56,7 +57,7 @@ langjin.schema.yaml
 langjin.table.bin
 ```
 
-除此之外，还要下载 2 个配置文件：
+此4个文件，包括了输入方案和编译好的二进制码表。除此之外，还要下载 2 个配置文件：
 
 ```
 default.yaml
@@ -115,6 +116,6 @@ lang jin pin in
 [image-b1]: https://wx3.sinaimg.cn/large/006mIeATgy1fefisa0pa2j30ku112wfk.jpg
 [image-b2]: https://wx3.sinaimg.cn/large/006mIeATgy1fefisaf8s5j30ku1123zp.jpg
 [image-b3]: https://wx3.sinaimg.cn/large/006mIeATgy1fefisawpx5j30zi10wn0w.jpg
-[image-b4]: https://wx3.sinaimg.cn/large/006mIeATgy1fefisbeftpj30ku112go3.jpg
-[image-b5]: https://wx3.sinaimg.cn/large/006mIeATgy1fefisbxp3ij30ku112wk6.jpg
+[image-b4]: https://uliloewi.github.io/LangJinPinIn/img/irimeB4.jpg
+[image-b5]: https://uliloewi.github.io/LangJinPinIn/img/irimeB5.jpg
 
