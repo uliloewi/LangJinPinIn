@@ -48,23 +48,18 @@
 - 百度网盘：https://pan.baidu.com/待定
 
 
-里面有多個文件，最主要的是这 4 个文件：
+里面有多個文件，最主要的是这 6 个文件：
 
 ```
 langjin.prism.bin
 langjin.reverse.bin
 langjin.schema.yaml
 langjin.table.bin
-```
-
-此4个文件，包括了输入方案和编译好的二进制码表。除此之外，还要下载 2 个配置文件：
-
-```
 default.yaml
 default.custom.yaml
 ```
 
-在手机上打开“iRime输入法”，点击“配置你的输入法”。iRime 会在手机上启动一个服务器，如果成功，会在手机屏幕上显示手机的 IP 地址。
+在手机上打开“iRime输入法”，点击“电脑快传”。iRime 会在手机上启动一个服务器，如果成功，会在手机屏幕上显示手机的 IP 地址。
 
 ![image-b1]
 
@@ -94,7 +89,7 @@ langjin.schema.yaml
 langjin.table.bin
 ```
 
-在手机上回到“iRime输入法”页面，点击“选择你喜欢的输入法”，找到新增的“南京官话拼音”。
+在手机上回到“iRime输入法”页面，点击“选择方案”，找到新增的“南京官话拼音”。
 
 ![image-b4]
 
