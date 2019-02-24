@@ -10,5 +10,5 @@
 - 安装方法〔<a  href="https://uliloewi.github.io/LangJinPinIn/weasel">Windows</a>〕
 - 安装方法〔<a  href="https://uliloewi.github.io/LangJinPinIn/squirrel">macOS</a>〕
 - 安装方法〔<a  href="https://uliloewi.github.io/LangJinPinIn/ibus">Linux</a>〕
-- 安装方法〔<a  href="https://uliloewi.github.io/langJinPinIn/trime">Android</a>〕(开发中)
-- 安装方法〔<a  href="https://uliloewi.github.io/langJinPinIn/irime">iOS</a>〕(开发中)
+- 安装方法〔<a  href="https://uliloewi.github.io/langJinPinIn/trime">Android</a>〕(開發中)
+- 安装方法〔<a  href="https://uliloewi.github.io/langJinPinIn/irime">iOS</a>〕(開發中)
