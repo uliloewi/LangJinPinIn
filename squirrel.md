@@ -48,21 +48,11 @@
 或
 - 百度网盘：https://pan.baidu.com/待定
 
-里面有两个.yaml文件，不需要作修改。感兴趣的读者可以用任何一款文本编辑器查看其中的内容。
+里面有三个.yaml文件，不需要作修改。感兴趣的读者可以用任何一款文本编辑器查看其中的内容。
 
-- 以`schema.yaml`结尾的文件定义了输入方案。
-- 以`dict.yaml`结尾的文件定义了码表。
-
-除此之外，还要下载`default.custom.yaml`文件。用文本编辑器打开这个文件，把不需要的输入方案删去，保留自己想要的。其中，“朙月拼音”就是全拼，建议保留。
-
-修改后的`default.custom.yaml`文件如下所示。
-
-```
-patch:
-  schema_list:
-    - schema: luna_pinyin    # 朙月拼音
-    - schema: langjin         # 南京官话拼音
-```
+- `langjin.schema.yaml`文件定义了输入方案。
+- `langjin.dict.yaml`文件定义了码表。
+- `default.custom.yaml`
 
 接下来，选择语言栏菜单中的`用户设定`/`Settings`，系统会打开一个文件夹。
 
