@@ -52,21 +52,12 @@ Rime 输入法还有很多功能，需要时可以查看官网的文档。
 或
 - 百度网盘：https://pan.baidu.com/待定
 
-里面有两个.yaml文件，不需要作修改。感兴趣的读者可以用任何一款文本编辑器查看其中的内容。
+里面有三个.yaml文件，不需要作修改。感兴趣的读者可以用任何一款文本编辑器查看其中的内容。
 
-- 以`schema.yaml`结尾的文件定义了输入方案。
-- 以`dict.yaml`结尾的文件定义了码表。
+- `langjin.schema.yaml`文件定义了输入方案。
+- `langjin.dict.yaml`文件定义了码表。
+- `default.custom.yaml`
 
-除此之外，还要下载`default.custom.yaml`文件。用文本编辑器打开这个文件，把不需要的输入方案删去，保留自己想要的。其中，“朙月拼音”就是全拼，建议保留。
-
-先选好南京话拼音添加到输入法。修改后的`default.custom.yaml`文件如下所示。
-
-```
-patch:
-  schema_list:
-    - schema: luna_pinyin    # 朙月拼音
-    - schema: langjin         # 南京话音
-```
 
 接下来，打开文件夹`~/.config/ibus/rime/`（0.9.1 以下版本为`~/.ibus/rime/`），这个目录用于存放 Rime 的用户配置文件，我们把刚才的三个文件放到该目录下。
 
