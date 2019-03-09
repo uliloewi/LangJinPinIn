@@ -10,39 +10,84 @@
 
 
 
-## 安装和配置
+在安卓系统上安装南京话拼音输入法，有两大步骤：（1）安装同文输入法；（2）添加南京话拼音的方案和码表。其中，第2步需要一台电脑，把手机当作优盘连上电脑。
 
-从下列链接下载最新的安装包`trime-langjin.apk`。我们已经把“南京话拼音”的码表和“同文输入法”的安装程序打包在一起了，不必另外下载码表。
+## 安装同文输入法
 
-- GITHUB： https://github.com/uliloewi/lang2jin1/archive/trime-langjin.apk
-或
-- 百度网盘：https://pan.baidu.com/待定
-
-安装完毕，应用列表上多了一个“同文输入法”。
+在Play Store或其他应用库上搜索“同文输入法”并安装。
 
 ![image-a1]
 
-打开该图标，开始进行配置，一共有四个步骤：“启用”、“切换”、“回厂”、“方案”，下面分步详述。
-
 ![image-a2]
 
-点击“启用”，在弹出菜单中勾选“同文输入法”。
-
+安装完成后点击“打开”，就进入输入法的设置。
 ![image-a3]
 
-点击“切换”，在弹出菜单中选择“同文输入法”。
 
+点击“选取”
 ![image-a4]
 
-点击“回厂”，把所有项目都勾选上。注意列表可以往下拉，一共有20项。程序会把这20个文件复制到`/sdcard/rime`。
-
+点击“设置输入法”
 ![image-a5]
 
-点击“方案”。选中的南京拼音。另外，“朙月拼音” 就是汉语拼音，建议选上。
-
-点击“确定”按钮，输入法程序会开始部署，整个程序处于无响应状态，请不要打扰它，耐心等待一分钟。部署结束后，输入法程序会自动退出。
-
+把“同文输入法”钩上
 ![image-a6]
+
+回到手机桌面，点击“同文输入法”
+![image-a7]
+
+点击“选取”
+![image-a8]
+
+选择“同文输入法”，点击“设置输入法”
+![image-a9]
+
+
+## 添加南京话拼音的方案和码表
+
+这一步需要一台电脑，把手机当作优盘连上电脑。
+
+请从下列链接，选择南京话拼音输入法（langjin）下载到电脑上。
+- GITHUB： https://github.com/uliloewi/lang2jin1/archive/master.zip
+或
+- 百度网盘：https://pan.baidu.com/待定
+
+
+里面有多個文件，最主要的是这 2 个文件：
+
+```
+langjin.schema.yaml
+langjin.dict.yaml
+```
+
+手机的sd卡被电脑当作外置硬盘，比如如图当作G盘
+把上面两文件复制到G盘上，比如可以复制到G:/documents之下
+![image-a10]
+
+复制好后把手机拔离电脑，进入手机桌面，点击“我的文件”。
+![image-a11]
+
+进入sd卡->documents，可以看到刚刚复制到G:/documents的两个文件。依次长按这两文件，钩上这两文件，点击下方的“复制”键。
+![image-a12]
+
+进入内置存储卡->rime
+![image-a13]
+
+点击“粘贴”
+![image-a14]
+
+回到手机桌面，点击“同文输入法”
+![image-a7]
+
+点击“输入”
+![image-a16]
+
+点击“方案”
+![image-a17]
+
+钩上“南京官话拼音”，另外，“朙月拼音” 就是汉语拼音，建议选上。点击“确定”。输入法程序会开始部署，整个程序处于无响应状态，请不要打扰它，耐心等待一分钟。部署结束后，输入法程序会自动退出。
+
+![image-a18]
 
 ## 使用
 
@@ -66,12 +111,23 @@ lang jin pin in
 
 ![image-b3]
 
-[image-a1]: https://ww3.sinaimg.cn/large/006mIeATjw1f2cxpinwc1j30f00qodip.jpg
-[image-a2]: https://ww2.sinaimg.cn/large/006mIeATjw1f2cxpjlx8aj30f00qoq48.jpg
-[image-a3]: https://ww4.sinaimg.cn/large/006mIeATjw1f2cxpk6ra9j30f00qo3z0.jpg
-[image-a4]: https://ww1.sinaimg.cn/large/006mIeATjw1f2cxplgmpij30f00qoaba.jpg
-[image-a5]: https://uliloewi.github.io/LangJinPinIn/img/trimeA5.jpg
-[image-a6]: https://uliloewi.github.io/LangJinPinIn/img/trimeA6.jpg
+[image-a1]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA1.jpg
+[image-a2]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA2.jpg
+[image-a3]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA3.jpg
+[image-a4]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA4.jpg
+[image-a5]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA5.jpg
+[image-a6]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA6.jpg
+[image-a7]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA7.jpg
+[image-a8]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA8.jpg
+[image-a9]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA9.jpg
+[image-a10]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA10.jpg
+[image-a11]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA11.jpg
+[image-a12]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA12.jpg
+[image-a13]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA13.jpg
+[image-a14]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA14.jpg
+[image-a16]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA16.jpg
+[image-a17]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA17.jpg
+[image-a18]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA18.jpg
 
 [image-b1]: https://uliloewi.github.io/LangJinPinIn/img/trimeB1.jpg
 [image-b2]: https://uliloewi.github.io/LangJinPinIn/img/trimeB2.jpg
