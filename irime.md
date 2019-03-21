@@ -14,7 +14,7 @@
 
 ## 安装 iRime 输入法
 
-在 App Store 上搜索“iRime输入法”并安装。
+在 App Store 上搜索“iRime输入法”并安装。安装好后，桌面上会有“iRime输入法”。
 
 ![image-a1]
 
