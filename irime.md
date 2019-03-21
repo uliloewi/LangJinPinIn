@@ -16,27 +16,11 @@
 
 在 App Store 上搜索“iRime输入法”并安装。
 
-在系统“设置”中，找到“键盘”选项，点击“添加新键盘”，将“iRime输入法”添加进来。
-
 ![image-a1]
 
-![image-a2]
-
-从桌面打开“iRime输入法”，点击“选择你喜欢的输入法”。这里列出了预置的输入方案，有各种常见的音码、形码输入法，还有粤语、吴语，甚至中古汉语的输入方案。其中“朙月拼音”就是全拼，下面以它为例。
+从桌面打开“iRime输入法”，可以看到设置菜单，其中“电脑快传”我们很快要用到。
 
 ![image-a3]
-
-点击“繁简转换”，默认是繁体字模式。选择“繁体到简体”，切换到简化字模式。
-
-![image-a4]
-
-打开一处能够写字的地方，将输入法切换成“iRime输入法”。
-
-![image-a5]
-
-现在可以开始打字了。试着键入`han yu pin yin shu ru fa`，按空格键上屏。
-
-![image-a6]
 
 ## 添加南京话拼音的方案和码表
 
@@ -48,18 +32,18 @@
 - 百度网盘：https://pan.baidu.com/待定
 
 
-里面有多個文件，最主要的是这 6 个文件：
+里面有多個文件，最主要的是这 2 个文件：
 
 ```
-langjin.prism.bin
-langjin.reverse.bin
 langjin.schema.yaml
-langjin.table.bin
-default.yaml
-default.custom.yaml
+langjin.dict.yaml
 ```
 
-在手机上打开“iRime输入法”，点击“电脑快传”。iRime 会在手机上启动一个服务器，如果成功，会在手机屏幕上显示手机的 IP 地址。
+在手机桌面上打开“iRime输入法”，点击“电脑快传”。
+
+![image-a3]
+
+iRime 会在手机上启动一个服务器，如果成功，会在手机屏幕上显示手机的 IP 地址。
 
 ![image-b1]
 
@@ -71,25 +55,17 @@ default.custom.yaml
 
 ![image-b3]
 
-先把手机上原有的 2 个配置文件删掉：
+从电脑上把刚才的 2 个文件上传到手机：
 
 ```
-default.yaml
-default.custom.yaml
-```
-
-再从电脑上把刚才的 6 个文件上传到手机：
-
-```
-default.yaml
-default.custom.yaml
-langjin.prism.bin
-langjin.reverse.bin
 langjin.schema.yaml
-langjin.table.bin
+langjin.dict.yaml
 ```
 
-在手机上回到“iRime输入法”页面，点击“选择方案”，找到新增的“南京官话拼音”。
+在手机上回到“iRime输入法”页面，点击“部署”。
+![image-a4]
+
+等部署结束后，点击“选择方案”，找到新增的“南京官话拼音”。
 
 ![image-b4]
 
@@ -101,12 +77,9 @@ lang jin pin in
 
 ![image-b5]
 
-[image-a1]: https://wx2.sinaimg.cn/large/006mIeATgy1fefis6qpxjj30ku1123zc.jpg
-[image-a2]: https://wx3.sinaimg.cn/large/006mIeATgy1fefis76vtmj30ku1120vb.jpg
-[image-a3]: https://wx1.sinaimg.cn/large/006mIeATgy1fefis7n4s1j30ku112410.jpg
-[image-a4]: https://wx3.sinaimg.cn/large/006mIeATgy1fefis82wk8j30ku1120ue.jpg
-[image-a5]: https://wx1.sinaimg.cn/large/006mIeATgy1fefis8src5j30ku11244s.jpg
-[image-a6]: https://wx3.sinaimg.cn/large/006mIeATgy1fefis9jm13j30ku112n2v.jpg
+[image-a1]: https://uliloewi.github.io/LangJinPinIn/img/irimeA1.jpg
+[image-a3]: https://uliloewi.github.io/LangJinPinIn/img/irimeA3.jpg
+[image-a4]: https://uliloewi.github.io/LangJinPinIn/img/irimeA4.jpg
 
 [image-b1]: https://wx3.sinaimg.cn/large/006mIeATgy1fefisa0pa2j30ku112wfk.jpg
 [image-b2]: https://wx3.sinaimg.cn/large/006mIeATgy1fefisaf8s5j30ku1123zp.jpg
