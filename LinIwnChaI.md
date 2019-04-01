@@ -40,7 +40,7 @@
     <td>例字組二</td>
     <td>shr¹ 詩</td>
     <td>shr² 時</td>
-    <td>shr³ 使</td>
+    <td>shr³ 始</td>
     <td>shr⁴ 是</td>
 	<td>shr⁵ 十</td>
   </tr>

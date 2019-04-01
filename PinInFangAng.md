@@ -274,7 +274,7 @@
     <td>例字組二</td>
     <td><span>shr¹</span> 詩</td>
     <td><span>shr²</span> 時</td>
-    <td><span>shr³</span> 使</td>
+    <td><span>shr³</span> 始</td>
     <td><span>shr⁴</span> 是</td>
 	<td><span>shr⁵</span> 十</td>
   </tr>
