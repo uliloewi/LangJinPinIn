@@ -84,13 +84,13 @@ lang jin pin in
 
 ![image-b5]
 
-[image-a1]: https://ww2.sinaimg.cn/large/006mIeATjw1f2qfq0mxlmj30m80m8adb.jpg
-[image-a2]: https://ww2.sinaimg.cn/large/006mIeATjw1f2qfq13jhsj30fa0dwgmp.jpg
-[image-a3]: https://ww2.sinaimg.cn/large/006mIeATjw1f2qfq1pjxkj30go0fadh9.jpg
-[image-a4]: https://ww2.sinaimg.cn/large/006mIeATjw1f2qfq2ak5kj30dw0faab6.jpg
-[image-a5]: https://ww1.sinaimg.cn/large/006mIeATjw1f2qfq2v1p0j30fa0fajsm.jpg
+[image-a1]: https://uliloewi.github.io/LangJinPinIn/img/squirrelA1.jpg
+[image-a2]: https://uliloewi.github.io/LangJinPinIn/img/squirrelA2.jpg
+[image-a3]: https://uliloewi.github.io/LangJinPinIn/img/squirrelA3.jpg
+[image-a4]: https://uliloewi.github.io/LangJinPinIn/img/squirrelA4.jpg
+[image-a5]: https://uliloewi.github.io/LangJinPinIn/img/squirrelA5.jpg
 
-[image-b1]: https://ww1.sinaimg.cn/large/006mIeATjw1f2qfq3bolcj30m80m8adb.jpg
+[image-b1]: https://uliloewi.github.io/LangJinPinIn/img/squirrelB1.jpg
 [image-b2]: https://uliloewi.github.io/LangJinPinIn/img/squirrelB2.jpg
 [image-b3]: https://uliloewi.github.io/LangJinPinIn/img/squirrelB3.jpg
 [image-b5]: https://uliloewi.github.io/LangJinPinIn/img/squirrelB5.jpg

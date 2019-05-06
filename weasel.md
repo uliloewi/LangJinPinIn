@@ -111,28 +111,28 @@ lang jin pin in
 ![image-c10]
 
 [image-a1]: https://uliloewi.github.io/LangJinPinIn/img/weaselA1.jpg
-[image-a2]: https://ww4.sinaimg.cn/large/006mIeATjw1f2ai9lmksdj30sg0lcn01.jpg
+[image-a2]: https://uliloewi.github.io/LangJinPinIn/img/weaselA2.jpg
 [image-a3]: https://uliloewi.github.io/LangJinPinIn/img/weaselA3.jpg
-[image-a4]: https://uliloewi.github.io/LangJinPinIn/img/weasel4.jpg
-[image-a5]: https://ww4.sinaimg.cn/large/006mIeATjw1f2ai9nloqkj30sg0lcwic.jpg
-[image-a6]: https://ww4.sinaimg.cn/large/006mIeATjw1f2ai9o3rzqj30sg0lcn13.jpg
-[image-a7]: https://ww1.sinaimg.cn/large/006mIeATjw1f2ai9ondg7j30sg0lcdjy.jpg
-[image-a8]: https://ww3.sinaimg.cn/large/006mIeATjw1f2ai9p2lq0j30sg0lcwi2.jpg
+[image-a4]: https://uliloewi.github.io/LangJinPinIn/img/weaselA4.jpg
+[image-a5]: https://uliloewi.github.io/LangJinPinIn/img/weaselA5.jpg
+[image-a6]: https://uliloewi.github.io/LangJinPinIn/img/weaselA6.jpg
+[image-a7]: https://uliloewi.github.io/LangJinPinIn/img/weaselA7.jpg
+[image-a8]: https://uliloewi.github.io/LangJinPinIn/img/weaselA8.jpg
 
-[image-b1]: https://ww4.sinaimg.cn/large/006mIeATjw1f2aiempz48j30sg0lctaw.jpg
-[image-b2]: https://ww3.sinaimg.cn/large/006mIeATjw1f2aien6s3sj30sg0lc76u.jpg
-[image-b3]: https://ww4.sinaimg.cn/large/006mIeATjw1f2aienthpej30sg0lcgo5.jpg
-[image-b4]: https://ww3.sinaimg.cn/large/006mIeATjw1f2aieo9qwoj30sg0lc0vc.jpg
+[image-b1]: https://uliloewi.github.io/LangJinPinIn/img/weaselB1.jpg
+[image-b2]: https://uliloewi.github.io/LangJinPinIn/img/weaselB2.jpg
+[image-b3]: https://uliloewi.github.io/LangJinPinIn/img/weaselB3.jpg
+[image-b4]: https://uliloewi.github.io/LangJinPinIn/img/weaselB4.jpg
 
 [image-c1]: https://uliloewi.github.io/LangJinPinIn/img/weaselC1.jpg
 [image-c2]: https://ww4.sinaimg.cn/large/006mIeATjw1f2aij98ozyj30sg0lc77d.jpg
 [image-c3]: https://uliloewi.github.io/LangJinPinIn/img/weaselC3.jpg
 [image-c4]: https://ww4.sinaimg.cn/large/006mIeATjw1f2aija7gdjj30sg0lctca.jpg
-[image-c5]: https://ww4.sinaimg.cn/large/006mIeATjw1f2aijasbf5j30sg0lcn17.jpg
+[image-c5]: https://uliloewi.github.io/LangJinPinIn/img/weaselC5.jpg
 [image-c6]: https://uliloewi.github.io/LangJinPinIn/img/weaselC6.jpg
 [image-c7]: https://uliloewi.github.io/LangJinPinIn/img/weaselC7.jpg
 [image-c8]: https://uliloewi.github.io/LangJinPinIn/img/weaselC8.jpg
 [image-c9]: https://ww3.sinaimg.cn/large/006mIeATjw1f2aijem663j30sg0lcdih.jpg
 [image-c10]: https://uliloewi.github.io/LangJinPinIn/img/weaselC10.jpg
-[image-c11]: https://ww4.sinaimg.cn/large/006mIeATjw1f2qc0urd6jj30sg0lcgp8.jpg
+[image-c11]: https://uliloewi.github.io/LangJinPinIn/img/weaselC11.jpg
 

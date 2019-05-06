@@ -94,12 +94,12 @@ lang jin pin in
 
 ![image-b5]
 
-[image-a1]: https://ww1.sinaimg.cn/large/006mIeATgw1f3w2sk9mixj30dw0b4wer.jpg
-[image-a2]: https://ww2.sinaimg.cn/large/006mIeATgw1f3w2skoehbj30dw0b474q.jpg
-[image-a3]: https://ww2.sinaimg.cn/large/006mIeATgw1f3w2slew6nj30dw0b4mxl.jpg
-[image-a4]: https://ww2.sinaimg.cn/large/006mIeATgw1f3w2sm4khpj30dw0b4dge.jpg
+[image-a1]: https://uliloewi.github.io/LangJinPinIn/img/ibusA1.jpg
+[image-a2]: https://uliloewi.github.io/LangJinPinIn/img/ibusA2.jpg
+[image-a3]: https://uliloewi.github.io/LangJinPinIn/img/ibusA3.jpg
+[image-a4]: https://uliloewi.github.io/LangJinPinIn/img/ibusA4.jpg
 
-[image-b1]: https://ww4.sinaimg.cn/large/006mIeATgw1f3w2sn2efdj30dw0b40t0.jpg
+[image-b1]: https://uliloewi.github.io/LangJinPinIn/img/ibusB1.jpg
 [image-b2]: https://uliloewi.github.io/LangJinPinIn/img/ibusB2.jpg
 [image-b3]: https://uliloewi.github.io/LangJinPinIn/img/ibusB3.jpg
 [image-b5]: https://uliloewi.github.io/LangJinPinIn/img/ibusB5.jpg
