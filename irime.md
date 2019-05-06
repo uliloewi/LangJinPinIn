@@ -81,9 +81,9 @@ lang jin pin in
 [image-a3]: https://uliloewi.github.io/LangJinPinIn/img/irimeA3.jpg
 [image-a4]: https://uliloewi.github.io/LangJinPinIn/img/irimeA4.jpg
 
-[image-b1]: https://wx3.sinaimg.cn/large/006mIeATgy1fefisa0pa2j30ku112wfk.jpg
-[image-b2]: https://wx3.sinaimg.cn/large/006mIeATgy1fefisaf8s5j30ku1123zp.jpg
-[image-b3]: https://wx3.sinaimg.cn/large/006mIeATgy1fefisawpx5j30zi10wn0w.jpg
+[image-b1]: https://uliloewi.github.io/LangJinPinIn/img/irimeB1.jpg
+[image-b2]: https://uliloewi.github.io/LangJinPinIn/img/irimeB2.jpg
+[image-b3]: https://uliloewi.github.io/LangJinPinIn/img/irimeB3.jpg
 [image-b4]: https://uliloewi.github.io/LangJinPinIn/img/irimeB4.jpg
 [image-b5]: https://uliloewi.github.io/LangJinPinIn/img/irimeB5.jpg
 
