@@ -175,13 +175,13 @@
 	<td></td>
   </tr>
   <tr>
-    <td><span>än [ɛ̃]</span> 限的韻母	  	</td>
+    <td><span>än [ẽ]</span> 限的韻母	  	</td>
     <td>
-		<span>iän [iɛ̃]</span> 淹	  	
+		<span>iän [iẽ]</span> 淹	  	
 	</td>
     <td></td>
 	<td>
-	<span>üän [yɛ̃]</span> 冤	  	
+	<span>üän [yẽ]</span> 冤	  	
 	</td>
   </tr>
   <tr>
