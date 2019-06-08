@@ -103,23 +103,25 @@
 		<span>ä [ɛ]</span>  哎
 	</td>
     <td>
-      <span>iä [iɛ]</span> 也
+	    <span>iä [iɛ]</span> 娾
 	</td>
     <td>
       <span>uä [uɛ]</span> 外	  
     </td>
-	<td>      
-	  <span>üä [uɛ]</span> 月	  
-    </td>
+	<td></td>
   </tr>
   
   <tr>
     <td>
 		<span>e [e]</span>  車的韻母
 	</td>
+    <td>
+	    <span>ie [ie]</span> 也
+	</td>
     <td></td>
-    <td></td>
-	<td></td>
+	<td>      
+	  <span>üe [ye]</span> 月	  
+    </td>
   </tr>
   <tr>
     <td>
