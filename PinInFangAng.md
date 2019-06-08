@@ -79,34 +79,34 @@
   <tr>  
 	<td></td>
     <td>	
-		<span>i [i]</span>  衣 ＊一
+		<span>i [i]</span>  衣 ⁵一
 	</td>
     <td>
-      <span>u [u]</span>  污 ＊物
+      <span>u [u]</span>  污 ⁵物
 	</td>
     <td>
-      <span>ü [y]</span>  雨 ＊育
+      <span>ü [y]</span>  雨 ⁵育
     </td>	
   </tr>
   <tr>
-    <td><span>a [a]</span>  啊 ＊錒</td>
+    <td><span>a [a]</span>  啊 ⁵錒</td>
     <td>
-      <span>ia [ia]</span> 丫 ＊鴨
+      <span>ia [ia]</span> 丫 ⁵鴨
 	</td>
     <td>
-      <span>ua [ua]</span> 哇  ＊挖
+      <span>ua [ua]</span> 哇  ⁵挖
     </td>
 	<td></td>
   </tr>
   <tr>
     <td>
-		<span>ä [ɛ]</span>  哎 ＊額
+		<span>ä [ɛ]</span>  哎 ⁵額
 	</td>
     <td>
 	    <span>iä [iɛ]</span> 娾
 	</td>
     <td>
-      <span>uä [uɛ]</span> 外  ＊彠	  
+      <span>uä [uɛ]</span> 外  ⁵彠	  
     </td>
 	<td></td>
   </tr>
@@ -116,11 +116,11 @@
 		<span>e [e]</span>  車的韻母
 	</td>
     <td>
-	    <span>ie [ie]</span> 也 ＊頁
+	    <span>ie [ie]</span> 也 ⁵頁
 	</td>
     <td></td>
 	<td>      
-	  <span>üe [ye]</span> 𦚢 ＊月	  
+	  <span>üe [ye]</span> 𦚢 ⁵月	  
     </td>
   </tr>
   <tr>
@@ -156,10 +156,10 @@
   </tr>
   <tr>
     <td>
-		<span>o [o]</span>  我 ＊惡
+		<span>o [o]</span>  我 ⁵惡
 	</td>
     <td>
-		<span>io [io]</span> ＊岳	  	
+		<span>io [io]</span> ⁵岳	  	
 	</td>
     <td></td>
 	<td></td>
@@ -235,7 +235,7 @@
   </tr>
   <tr>
     <td>
-		<span>r [ʅ]</span> 時的韻母 ＊日
+		<span>r [ʅ]</span> 時的韻母 ⁵日
 	</td>
     <td></td>
     <td></td>
@@ -244,7 +244,8 @@
 </table>
 
 註：前接聲母的ie在老老派中更接近[e]，比如“姐”zie說成[tse]。前接聲母的iän在老老派中更接近是[ẽ]，比如“錢”ciän說成[tsʰẽ]。
-前有＊的是入聲韻。
+
+前有⁵的是入聲韻。
 
 ## 声调
 
