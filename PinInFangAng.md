@@ -125,11 +125,11 @@
   </tr>
   <tr>
     <td>
-		<span>ei [ei]</span> 眉的韻母
+		<span>ei [əi]</span> 眉的韻母
 	</td>
     <td></td>
     <td>
-      <span>uei [uei]</span> 威 	  
+      <span>uei [uəi]</span> 威 	  
     </td>
 	<td></td>
   </tr>
