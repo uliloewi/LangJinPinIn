@@ -48,7 +48,7 @@
     <td>例字組三</td>
     <td>cä¹ 猜</td>
     <td>cä² 才</td>
-    <td>cä³ 踩</td>
+    <td>cä³ 彩</td>
     <td>cä⁴ 菜</td>
 	<td>cä⁵ 測</td>
   </tr>
