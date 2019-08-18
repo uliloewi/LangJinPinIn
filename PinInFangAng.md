@@ -103,10 +103,10 @@
 		<span>ä [ɛ]</span>  哎 ⁵額
 	</td>
     <td>
-	    <span>iä [iɛ]</span> 娾
+	    <span>iä [iɛ]</span> 崖
 	</td>
     <td>
-      <span>uä [uɛ]</span> 外  ⁵彠	  
+      <span>uä [uɛ]</span> 外  ⁵瓁	  
     </td>
 	<td></td>
   </tr>
