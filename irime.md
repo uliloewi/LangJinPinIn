@@ -32,7 +32,7 @@
 - 百度网盘：https://pan.baidu.com/待定
 
 
-里面有多個文件，最主要的是这 2 个文件：
+里面有多個文件，最主要的是这 2 个“langjin”开头的文件：
 
 ```
 langjin.schema.yaml
@@ -55,11 +55,20 @@ iRime 会在手机上启动一个服务器，如果成功，会在手机屏幕�
 
 ![image-b3]
 
-从电脑上把刚才的 2 个文件上传到手机：
+点击向下箭头如上图，下载default.customer.yaml文件，并打开此文件。
+
+![image-e1]
+
+在default.customer.yaml文件中添加 “  - schema: langjin ”，并保存这个修改。
+
+
+
+从电脑上把刚才的 2 个“langjin”开头的文件和修改过的文件上传到手机：
 
 ```
 langjin.schema.yaml
 langjin.dict.yaml
+default.customer.yaml
 ```
 
 在手机上回到“iRime输入法”页面，点击“部署”。
@@ -86,4 +95,4 @@ lang jin pin in
 [image-b3]: https://uliloewi.github.io/LangJinPinIn/img/irimeB3.jpg
 [image-b4]: https://uliloewi.github.io/LangJinPinIn/img/irimeB4.jpg
 [image-b5]: https://uliloewi.github.io/LangJinPinIn/img/irimeB5.jpg
-
+[image-e1]: https://uliloewi.github.io/LangJinPinIn/img/irimeE1.jpg
