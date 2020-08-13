@@ -51,19 +51,19 @@ iRime 会在手机上启动一个服务器，如果成功，会在手机屏幕�
 
 ![image-b2]
 
-在电脑浏览器中访问手机上显示的 IP 地址，就可以通过该服务器来修改手机上的配置文件了。
+在电脑浏览器中访问手机上显示的 IP 地址，就可以通过该服务器来修改手机上的配置文件了。这配置文件default.customer.yaml可能就在IP http://192.168.178.xx/ 下，也可能在http://192.168.178.xx/下的文件夹Build中
 
 ![image-b3]
 
-点击向下箭头如上图，下载default.customer.yaml文件，并打开此文件。
+点击向下箭头如上图，下载default.customer.yaml文件，并打开此文件，找到“schema_list:”。
 
 ![image-e1]
 
-在default.customer.yaml文件中添加 “  - schema: langjin ”，并保存这个修改。
+在default.customer.yaml文件中的“schema_list:”下添加 “  - schema: langjin ”，并保存这个修改。
 
 
 
-从电脑上把刚才的 2 个“langjin”开头的文件和修改过的文件上传到手机：
+从电脑上把刚才的 2 个“langjin”开头的文件和修改过的配置文件上传到手机：
 
 ```
 langjin.schema.yaml
