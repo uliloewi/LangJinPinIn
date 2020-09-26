@@ -288,7 +288,7 @@
     <td>例字組三</td>
     <td><span>cä¹</span> 猜</td>
     <td><span>cä²</span> 才</td>
-    <td><span>cä³</span> 踩</td>
+    <td><span>cä³</span> 彩</td>
     <td><span>cä⁴</span> 菜</td>
 	<td><span>cä⁵</span> 測</td>
   </tr>
