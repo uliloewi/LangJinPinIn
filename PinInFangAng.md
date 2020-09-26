@@ -29,7 +29,7 @@
     <td></td>
   </tr>
   <tr>
-    <td><span>g [k]</span> 嘎</td>
+    <td><span>g [k]</span> 噶</td>
     <td><span>k [kʰ]</span> 卡</td>
     <td><span>h [h]</span> 哈</td>
     <td></td>
@@ -48,9 +48,9 @@
   </tr>
   <tr>
     <td><span>zh [ʈʂ]</span> 渣</td>
-    <td><span>ch [ʈʂʰ]</span> 差</td>
+    <td><span>ch [ʈʂʰ]</span> 茶</td>
     <td><span>sh [ʂ]</span> 沙</td>
-    <td><span>r [ʐ]</span> 日</td>
+    <td><span>r [ʐ]</span> 然</td>
   </tr>
 </table>
 
