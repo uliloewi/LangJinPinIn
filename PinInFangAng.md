@@ -31,7 +31,7 @@
   <tr>
     <td><span>g [k]</span> 噶</td>
     <td><span>k [kʰ]</span> 卡</td>
-    <td><span>h [h]</span> 哈</td>
+    <td><span>h [x]</span> 哈</td>
     <td></td>
   </tr>
   <tr>
