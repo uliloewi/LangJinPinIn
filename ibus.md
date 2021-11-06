@@ -50,7 +50,7 @@ Rime 输入法还有很多功能，需要时可以查看官网的文档。
 
 - GITHUB： https://github.com/uliloewi/lang2jin1/archive/master.zip
 或
-- 百度网盘：https://pan.baidu.com/待定
+- 百度网盘：https://pan.baidu.com/s/1pqq700qm2ybaqSmluTCJ7A 提取码: rzvm
 
 里面有三个.yaml文件，不需要作修改。感兴趣的读者可以用任何一款文本编辑器查看其中的内容。
 

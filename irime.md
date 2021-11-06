@@ -29,7 +29,7 @@
 请从下列链接，选择南京话拼音输入法（langjin）下载到电脑上。
 - GITHUB： https://github.com/uliloewi/lang2jin1/archive/master.zip
 或
-- 百度网盘：https://pan.baidu.com/待定
+- 百度网盘：https://pan.baidu.com/s/1pqq700qm2ybaqSmluTCJ7A 提取码: rzvm
 
 
 里面有多個文件，最主要的是这 2 个“langjin”开头的文件：
