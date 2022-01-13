@@ -60,7 +60,7 @@
 南京话拼音输入法在此下载：
 - GITHUB： https://github.com/uliloewi/lang2jin1/archive/master.zip
 或
-- 百度网盘：https://pan.baidu.com/s/1pqq700qm2ybaqSmluTCJ7A 提取码: rzvm
+- 百度网盘：https://pan.baidu.com/s/1AZLKPZwd_tt8z69D1iJCvA 提取码: j5vw
 
 
 里面有多个文件，其中
