@@ -46,7 +46,7 @@
 
 - GITHUB： https://github.com/uliloewi/lang2jin1/archive/master.zip
 或
-- 百度网盘：https://pan.baidu.com/s/1AZLKPZwd_tt8z69D1iJCvA 提取码: j5vw
+- 百度网盘：https://pan.baidu.com/s/1RCdZpaY6cxqrjDKm899mtg 提取码: ucj2
 
 里面有三个.yaml文件，不需要作修改。感兴趣的读者可以用任何一款文本编辑器查看其中的内容。
 
