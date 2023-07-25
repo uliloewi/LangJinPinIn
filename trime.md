@@ -10,11 +10,23 @@
 
 
 
-在安卓系统上安装南京话拼音输入法，有两大步骤：（1）安装同文输入法；（2）添加南京话拼音的方案和码表。其中，第2步需要一台电脑，把手机当作优盘连上电脑。
+在安卓系统上安装南京话拼音输入法，有三大步骤：（1）安装Google Play商店；（2）安装同文输入法；（3）添加南京话拼音的方案和码表。其中，第3步需要一台电脑，把手机当作优盘连上电脑。
+
+## 安装Google Play商店
+
+打开手机自带的应用商店，搜索Google Play，发现搜不到。怎么办？改搜索Gmail, 搜出来之后点击安装。
+
+此时关键一幕出现了，自动询问你是否安装Google Play，
+
+![image-o]
+
+当然，要的就是这个，
+
+然后安装即可。
 
 ## 安装同文输入法
 
-在Play Store或其他应用库上搜索“同文输入法”并安装。
+在Google Play商店上搜索“同文输入法”并安装。
 
 ![image-a1]
 
@@ -127,6 +139,7 @@ lang jin pin in
 
 ![image-b3]
 
+[image-o]: https://uliloewi.github.io/LangJinPinIn/img/trimeO.jpg
 [image-a1]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA1.jpg
 [image-a2]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA2.jpg
 [image-a3]: https://uliloewi.github.io/LangJinPinIn/img/trimeAA3.jpg
